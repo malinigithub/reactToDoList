@@ -1,5 +1,5 @@
 # reactToDoList
-To Do list from module 14
+Manage To-Do-list code - module 14
 
 # Project Description: 
 This project offers two features: 
